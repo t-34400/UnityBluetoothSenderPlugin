@@ -40,6 +40,5 @@ android {
 **SOURCE_BUILD_SETUP**
 **EXTERNAL_SOURCES**
 dependencies {
-
     implementation 'androidx.appcompat:appcompat:1.6.1'
 }
