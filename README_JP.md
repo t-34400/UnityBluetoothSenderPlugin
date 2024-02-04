@@ -2,6 +2,9 @@
 
 UnityからBluetooth送信を行うためのAndroid Pluginと実装サンプルパッケージ.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CodeFactor](https://www.codefactor.io/repository/github/t-34400/unitybluetoothsenderplugin/badge)](https://www.codefactor.io/repository/github/t-34400/unitybluetoothsenderplugin)
+
 <img src="./Images/standby.png" width=400>
 <img src="./Images/connected.png" width=400>
 
